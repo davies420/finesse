@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+header {
+    background-color: #F8F0E3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 2vh 5vw;
+}
+
+div a {
+    margin-right: 30px;
+    color: black;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.net {
+    color: #D65123;
+}
+
+.azu {
+    background-color: #020636;
+    padding: 26vh 5vw;
+    /* padding-top: 25px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h3 {
+    color: #F8F0E3;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 50px;
+}
+
+.had {
+    background: rgba(248, 240, 227, 0.5);
+    border-radius: 20px;
+    padding: 10px;
+    color: #F8F0E3CC;
+
+}
+
+.shot {
+    color: #D65123;
+}
+
+.over {
+    border: 2px solid #D65123;
+    border-radius: 50%;
+}
+
+.cola {
+    color: #F8F0E3CC;
+}
+
+.playstore {
+    margin-right: 40px;
+}
+
+.hp {
+    margin-top: -350px;
+    padding: 26vh 5vw 0px 5vw;
+}
+
+.bomb {
+    background-color: #F8F0E3;
+    display: flex;
+}
+
+.thanks {
+    color: #020636;
+    font-size: 65px;
+}
+
+.box {
+    padding-top: 10%;
+    /* padding: 26vh 5vw; */
+    padding-left: 15%;
+}
+
+.daily {
+    color: #020636;
+}
+
+.boy {
+    color: #020636;
+}
+
+.open {
+    color: #020636;
+    font-size: 35px;
+}
+
+.bars {
+    display: flex;
+}
+
+.baddest {
+    color: #020636;
+    font-size: 65px;
+}
+
+.folake {
+    background-color: #F8F0E3;
+    display: flex;
+    justify-content: space-around;
+}
+
+.luffy {
+    color: #020636;
+    font-size: 48px;
+}
+
+.love {
+    padding: 26vh 5vw;
+}
+
+.you {
+    padding-top: 10px;
+    color: #020636;
+    font-size: 18px;
+    margin-left: 18px;
+}
+
+.true {
+    color: #020636;
+    font-size: 18px;
+}
+
+.dogg {
+    background-color: #020636;
+    color: #F8F0E3;
+    padding: 18px;
+    padding-left: 98px;
+    padding-right: 98px;
+    margin-top: 10%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.home {
+    background-color: #020636;
+}
+.gees{
+    padding-top: 100%;
+}
+.gun{
+    padding-top: 9px;
+    margin-bottom: 10%;
+    padding-left: 12px;
+}
+.turbo{
+    padding-left: +60%;
+    margin-top: -266px;
+}
