@@ -4,6 +4,7 @@
     outline: 0;
     border: 0;
     text-decoration: none;
+    list-style: none;
 }
 
 header {
@@ -17,13 +18,14 @@ header {
 
 div a {
     margin-right: 30px;
-    color: black;
+    color: rgb(46, 45, 45);
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
     line-height: 33px;
 }
+
 
 .net {
     color: #D65123;
@@ -42,7 +44,7 @@ h3 {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
-    font-size: 48px;
+    font-size: 40px;
     line-height: 50px;
 }
 
@@ -69,6 +71,11 @@ h3 {
 
 .playstore {
     margin-right: 40px;
+    width: 40%;
+}
+
+.playstor {
+    width: 40%;
 }
 
 .hp {
@@ -157,15 +164,146 @@ h3 {
 .home {
     background-color: #020636;
 }
-.gees{
+
+.gees {
     padding-top: 100%;
 }
-.gun{
+
+.gun {
     padding-top: 9px;
     margin-bottom: 10%;
     padding-left: 12px;
 }
-.turbo{
+
+.turbo {
     padding-left: +60%;
     margin-top: -266px;
+}
+
+.dreaming {
+    color: #020636;
+    padding: 26vh 5vw;
+}
+
+.pays {
+    border: solid #fff;
+    background-color: #fff;
+    color: #020636;
+    width: 80%;
+    margin: 10% 0%;
+    padding: 1vh 0.5vw;
+    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+}
+
+.piss {
+    margin-top: -10%;
+}
+
+.second {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.knees {
+    border: solid #fff;
+    background-color: #fff;
+    color: #020636;
+    width: 80%;
+    margin: 10% 0%;
+    padding: 1vh 0.5vw;
+    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -5%;
+}
+
+.hold, .hello, .cruel, .feel {
+    float: right;
+}
+
+.other {
+    border: solid #fff;
+    background-color: #fff;
+    color: #020636;
+    width: 80%;
+    margin: 10% 0%;
+    padding: 1vh 0.5vw;
+    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -8%;
+}
+
+.demonyouth {
+    border: solid #fff;
+    background-color: #fff;
+    color: #020636;
+    width: 80%;
+    margin: 10% 0%;
+    padding: 1vh 0.5vw;
+    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -8%;
+}
+
+.not {
+    margin-top: -8%;
+    box-shadow: 2px 2px rgb(226, 219, 219) 2px 2px rgb(58, 57, 57);
+    ;
+    font-size: 18px;
+    font-weight: 700;
+    color: #020636;
+    width: 80%;
+    padding: 1vh 0.5vw;
+
+}
+
+.judgement {
+    background-color: #020636;
+}
+
+.dave {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2vh 5vw;
+}
+
+.game {
+    color: #F8F0E3;
+    padding-top: 9.5%;
+    font-size: 32px;
+}
+
+.lookup {
+    color: #9e9d9a;
+}
+.obim{
+    color: #9e9d9a;
+}
+.failed {
+    color: #F8F0E3;
+    /* padding-left: 10%; */
+}
+.wiggle{
+    color: #F8F0E3;
+    margin-top: -85%;
+}
+.freezer{
+    color: #9e9d9a;
+}
+.greem{
+    color: #F8F0E3;
+    margin-top: -85%;
+}
+.tilltheend{
+    color: #9e9d9a;
+}
+.forgive{
+    color:#9e9d9a;
+    padding: 5vh 15vw;
+}
+.home{
+    float: right;
 }
